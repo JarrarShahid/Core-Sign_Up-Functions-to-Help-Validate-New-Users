@@ -30,8 +30,8 @@ These functions ensure that only valid, well-formed user inputs proceed to accou
 1. Clone this repository:
 
   ```bash
-  git clone https://github.com/yourusername/user-validation-functions.git
-  cd user-validation-functions
+  git clone https://github.com/JarrarShahid/Core-Sign_Up-Functions-to-Help-Validate-New-Users.git
+  cd Core-Sign_Up-Functions-to-Help-Validate-New-Users
   ```
 2. Start the Jupyter Notebook:
   ```
